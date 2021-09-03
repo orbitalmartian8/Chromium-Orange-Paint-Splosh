@@ -7,3 +7,6 @@ This theme may be used on any chromium based browsers. NOTE not all chromium bas
 Twitch: https://www.twitch.tv/omega_cj
 Youtube: https://www.youtube.com/channel/UCbBtLFxKBpcwt85EoP0kXRg
 Discord: https://www.discord.gg/QRQU6YQzsm
+
+<h2>How to Install</h2>
+
